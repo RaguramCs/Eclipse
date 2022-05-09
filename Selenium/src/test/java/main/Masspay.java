@@ -15,7 +15,7 @@ public class Masspay extends Login{
 	public static void main(String[] args) throws InterruptedException {
 		Masspay m = new Masspay();
 		m.log();
-		
+		m.masspay();
 		
 	}
 	
